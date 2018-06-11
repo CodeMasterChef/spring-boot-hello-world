@@ -22,7 +22,6 @@
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
         </dependency>
-
         <!-- tag::actuator[] -->
         <dependency>
             <groupId>org.springframework.boot</groupId>
